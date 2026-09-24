@@ -1,0 +1,156 @@
+[
+  {
+    "mode": "100",
+    "selected_id": "100-retained",
+    "dataset": "BEHAVE",
+    "subject": "Sub05_test",
+    "sequence": "tablesquare_Date03",
+    "repeat": 0,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/100.mp4",
+    "poster": "videos/100.jpg",
+    "sha256": "82f06807177f27b5136b0689deb7d39215872b2b493a81ecbdd8c7c605e131c5",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "retained_from_previous_seven_mode_page",
+    "source_sha256": "ca696234e5b558c2eed263a1768568d207589618e51eb9b2e48c9bb73bd59e3a",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "010",
+    "selected_id": "010-02",
+    "dataset": "BEHAVE",
+    "subject": "Sub05_test",
+    "sequence": "tablesquare_Date03",
+    "repeat": 0,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/010.mp4",
+    "poster": "videos/010.jpg",
+    "sha256": "52ba45b172c8be4024fc21a41adb1e64359f6418dad7c74e23c1e0d83595e436",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "user_confirmed",
+    "source_sha256": "adf6482d7bca9b0ae6b7b4c37e16a5e8a4d6a2bc230897a67c30a3efc6130f0f",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "001",
+    "selected_id": "001-retained",
+    "dataset": "GRAB",
+    "subject": "s10",
+    "sequence": "mug_lift",
+    "repeat": 0,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/001.mp4",
+    "poster": "videos/001.jpg",
+    "sha256": "45394ef642558029a75a1dd3624da67eb0b54f63ec2cb3371452c5d698f9af25",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "retained_from_previous_seven_mode_page",
+    "source_sha256": "5181d686e862849e10e6981a9b0eb8f6b1bda3e719468fcf6a8bba70a0577345",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "110",
+    "selected_id": "110-04",
+    "dataset": "BEHAVE",
+    "subject": "Sub03_test",
+    "sequence": "chairwood_sit_Date03",
+    "repeat": 2,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/110.mp4",
+    "poster": "videos/110.jpg",
+    "sha256": "ce8c53c80c514d40c59dbe9cb7686e2d69583fbaedbc77090984e7fd935b8704",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "user_confirmed",
+    "source_sha256": "6a0d629cdf78b746515b9cee7eaa3a246aa374f1eaa8daaf7896b894f7febbec",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "101",
+    "selected_id": "101-02",
+    "dataset": "BEHAVE",
+    "subject": "Sub05_test",
+    "sequence": "toolbox_Date03",
+    "repeat": 1,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/101.mp4",
+    "poster": "videos/101.jpg",
+    "sha256": "faf1be105ae132014a106c08acbb4e6f360df0027132e447c0f1dc2cb44c0d3d",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "user_confirmed",
+    "source_sha256": "5ad389a3b3817d5ffded57e358b7c6416efae80199c392a68c1a07c1808651bd",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "011",
+    "selected_id": "011-03",
+    "dataset": "BEHAVE",
+    "subject": "Sub05_test",
+    "sequence": "boxmedium_Date03",
+    "repeat": 2,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/011.mp4",
+    "poster": "videos/011.jpg",
+    "sha256": "dc4f1abcc2c2eabfd84a8b16ac5616db8f1843b53ca118e2d754e1766039c693",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "user_confirmed",
+    "source_sha256": "36fe2148b1a3b9b48a267d19ddc700766b942b8c5a4c16338cc23fa8d4cf30bb",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  },
+  {
+    "mode": "111",
+    "selected_id": "111-12",
+    "dataset": "GRAB",
+    "subject": "s9",
+    "sequence": "camera_lift",
+    "repeat": 2,
+    "frames": 10,
+    "presentation_seconds": 10,
+    "video": "videos/111.mp4",
+    "poster": "videos/111.jpg",
+    "sha256": "6996c16d5c23906fcda48fd17e97e18743e901bcac2c311660a8bbc289640dba",
+    "chronology_verified": false,
+    "interpolation": false,
+    "selection": "user_confirmed",
+    "source_sha256": "033c9f7492322fc2adbd4cc2d0366b459afa47c51340e6febbbfa986f433cf59",
+    "display_methods": [
+      "Baseline",
+      "C\u00b3Net"
+    ],
+    "presentation_edit": "Top source banner removed; method labels replaced; scene and timeline unchanged."
+  }
+]
